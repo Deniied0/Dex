@@ -3,7 +3,7 @@ New Dex was planned to be a debugging suite. Only the Explorer part is completed
 
 It was discontinued more than a year ago, might as well just release.
 
-This is a version of "New Dex" that is lua 5.1 compatible.
+This is a version of "New Dex" that is lua 5.1 compatible. (got rid of use of continue lol)
 
 ## Script:
 ```lua
